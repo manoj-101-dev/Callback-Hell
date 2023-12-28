@@ -6,9 +6,6 @@ This repository contains JavaScript code that demonstrates a countdown using `se
 
 - [About](#about)
 - [Code Overview](#code-overview)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
